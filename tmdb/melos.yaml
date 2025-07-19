@@ -1,0 +1,14 @@
+name: movies_monorepo
+packages:
+  - 'packages/*'
+scripts:
+  bootstrap:
+    run: melos bootstrap
+  start:
+    run: |
+      cd packages/tmdb
+      flutter run
+  analyze:
+    run: melos exec dart analyze
+  test:
+    run: melos exec flutter test

@@ -1,0 +1,356 @@
+{
+    "@@locale": "en",
+    "counterAppBarTitle": "Counter",
+    "@counterAppBarTitle": {
+        "description": "Text shown in the AppBar of the Counter Page"
+    },
+    "networkErrorTitle": "No Internet Connection",
+    "@networkErrorTitle": {
+        "description": "Title for network error screen"
+    },
+
+    "networkErrorDescription": "Please check your internet connection and try again. Make sure you're connected to Wi-Fi or mobile data.",
+    "@networkErrorDescription": {
+        "description": "Description for network error screen"
+    },
+
+    "networkErrorRetry": "Try Again",
+    "@networkErrorRetry": {
+        "description": "Retry button text for network error"
+    },
+
+    "networkErrorSettings": "Open Network Settings",
+    "@networkErrorSettings": {
+        "description": "Settings button text for network error"
+    },
+
+    "networkErrorTryAgain": "Try Again",
+    "@networkErrorTryAgain": {
+        "description": "Try again button text"
+    },
+
+    "networkErrorCancel": "Cancel",
+    "@networkErrorCancel": {
+        "description": "Cancel button text"
+    },
+
+    "networkErrorDialogTitle": "No Internet Connection",
+    "@networkErrorDialogTitle": {
+        "description": "Title for network error dialog"
+    },
+
+    "networkErrorDialogMessage": "Please check your internet connection and try again.",
+    "@networkErrorDialogMessage": {
+        "description": "Message for network error dialog"
+    },
+
+    "networkErrorBottomSheetTitle": "No Internet Connection",
+    "@networkErrorBottomSheetTitle": {
+        "description": "Title for network error bottom sheet"
+    },
+
+    "networkErrorBottomSheetMessage": "Please check your internet connection and try again.",
+    "@networkErrorBottomSheetMessage": {
+        "description": "Message for network error bottom sheet"
+    },
+
+    "networkErrorSnackBarMessage": "No internet connection",
+    "@networkErrorSnackBarMessage": {
+        "description": "Message for network error snack bar"
+    },
+
+    "networkErrorSnackBarAction": "Retry",
+    "@networkErrorSnackBarAction": {
+        "description": "Action button text for network error snack bar"
+    },
+
+    "connectionRestored": "Connection restored",
+    "@connectionRestored": {
+        "description": "Message when internet connection is restored"
+    },
+
+    "connectionLost": "Connection lost",
+    "@connectionLost": {
+        "description": "Message when internet connection is lost"
+    },
+
+    "connectionChecking": "Checking connection...",
+    "@connectionChecking": {
+        "description": "Message when checking internet connection"
+    },
+
+    "connectionRetrying": "Retrying...",
+    "@connectionRetrying": {
+        "description": "Message when retrying connection"
+    },
+
+    "retry": "Retry",
+    "@retry": {
+        "description": "Generic retry button text"
+    },
+
+    "cancel": "Cancel",
+    "@cancel": {
+        "description": "Generic cancel button text"
+    },
+
+    "close": "Close",
+    "@close": {
+        "description": "Generic close button text"
+    },
+
+    "ok": "OK",
+    "@ok": {
+        "description": "Generic OK button text"
+    },
+
+    "settings": "Settings",
+    "@settings": {
+        "description": "Generic settings button text"
+    },
+
+    "tryAgain": "Try Again",
+    "@tryAgain": {
+        "description": "Generic try again button text"
+    },
+
+    "loading": "Loading...",
+    "@loading": {
+        "description": "Generic loading text"
+    },
+
+    "errorGeneric": "An error occurred. Please try again.",
+    "@errorGeneric": {
+        "description": "Generic error message"
+    },
+
+    "errorTimeout": "Request timed out. Please try again.",
+    "@errorTimeout": {
+        "description": "Timeout error message"
+    },
+
+    "errorServerError": "Server error. Please try again later.",
+    "@errorServerError": {
+        "description": "Server error message"
+    },
+
+    "errorInvalidResponse": "Invalid response from server.",
+    "@errorInvalidResponse": {
+        "description": "Invalid response error message"
+    },
+
+    "successGeneric": "Operation completed successfully.",
+    "@successGeneric": {
+        "description": "Generic success message"
+    },
+
+    "successSaved": "Saved successfully.",
+    "@successSaved": {
+        "description": "Success message for save operation"
+    },
+
+    "successDeleted": "Deleted successfully.",
+    "@successDeleted": {
+        "description": "Success message for delete operation"
+    },
+
+    "successUpdated": "Updated successfully.",
+    "@successUpdated": {
+        "description": "Success message for update operation"
+    },
+
+    "validationRequired": "This field is required.",
+    "@validationRequired": {
+        "description": "Validation message for required fields"
+    },
+
+    "validationInvalidEmail": "Please enter a valid email address.",
+    "@validationInvalidEmail": {
+        "description": "Validation message for invalid email"
+    },
+
+    "validationMinLength": "Must be at least {length} characters long.",
+    "@validationMinLength": {
+        "description": "Validation message for minimum length",
+        "placeholders": {
+            "length": {
+                "type": "int",
+                "example": "8"
+            }
+        }
+    },
+
+    "validationMaxLength": "Must be no more than {length} characters long.",
+    "@validationMaxLength": {
+        "description": "Validation message for maximum length",
+        "placeholders": {
+            "length": {
+                "type": "int",
+                "example": "50"
+            }
+        }
+    },
+
+    "save": "Save",
+    "@save": {
+        "description": "Save button text"
+    },
+
+    "edit": "Edit",
+    "@edit": {
+        "description": "Edit button text"
+    },
+
+    "delete": "Delete",
+    "@delete": {
+        "description": "Delete button text"
+    },
+    "discoverMovies": "Discover Movies",
+    "tmdbMovies":"TMDB Movies",
+    "trendingMovies": "Trending Movies",
+    "@trendingMovies": {
+        "description": "Title for trending movies section"
+    },
+    "nowPlaying": "Now Playing",
+    "@nowPlaying": {
+        "description": "Title for now playing movies section"
+    },
+    "searchMovies": "Search movies...",
+    "@searchMovies": {
+        "description": "Placeholder text for search input"
+    },
+    "searchForMovies": "Search for movies",
+    "@searchForMovies": {
+        "description": "Text shown when search is empty"
+    },
+    "searchForMoviesDescription": "Type in the search box above to find movies",
+    "@searchForMoviesDescription": {
+        "description": "Description text when search is empty"
+    },
+    "noResultsFound": "No results found",
+    "@noResultsFound": {
+        "description": "Text shown when search has no results"
+    },
+    "noResultsFoundDescription": "Try searching with different keywords",
+    "@noResultsFoundDescription": {
+        "description": "Description text when search has no results"
+    },
+    "myBookmarks": "My Bookmarks",
+    "@myBookmarks": {
+        "description": "Title for bookmarks page"
+    },
+    "noBookmarkedMovies": "No bookmarked movies",
+    "@noBookmarkedMovies": {
+        "description": "Text shown when no bookmarks exist"
+    },
+    "noBookmarkedMoviesDescription": "Start bookmarking movies to see them here",
+    "@noBookmarkedMoviesDescription": {
+        "description": "Description text when no bookmarks exist"
+    },
+    "goToHome": "Go to Home",
+    "@goToHome": {
+        "description": "Button text to go to home page"
+    },
+    "bookmarkedMovies": "Bookmarked Movies ({count})",
+    "@bookmarkedMovies": {
+        "description": "Title for bookmarked movies section with count",
+        "placeholders": {
+            "count": {
+                "type": "int",
+                "example": "5"
+            }
+        }
+    },
+    "clearAllBookmarks": "Clear All Bookmarks",
+    "@clearAllBookmarks": {
+        "description": "Title for clear all bookmarks dialog"
+    },
+    "clearAllBookmarksMessage": "Are you sure you want to remove all bookmarked movies? This action cannot be undone.",
+    "@clearAllBookmarksMessage": {
+        "description": "Message for clear all bookmarks dialog"
+    },
+    "genres": "Genres",
+    "@genres": {
+        "description": "Title for genres section"
+    },
+    "overview": "Overview",
+    "@overview": {
+        "description": "Title for overview section"
+    },
+    "budget": "Budget",
+    "@budget": {
+        "description": "Title for budget section"
+    },
+    "revenue": "Revenue",
+    "@revenue": {
+        "description": "Title for revenue section"
+    },
+    "productionCompanies": "Production Companies",
+    "@productionCompanies": {
+        "description": "Title for production companies section"
+    },
+    "status": "Status",
+    "@status": {
+        "description": "Title for status section"
+    },
+    "unknown": "Unknown",
+    "@unknown": {
+        "description": "Text for unknown values"
+    },
+    "movies": "Movies",
+    "@movies": {
+        "description": "Title for movies page"
+    },
+    "moviesWillBeDisplayedHere": "Movies will be displayed here",
+    "@moviesWillBeDisplayedHere": {
+        "description": "Placeholder text for movies page"
+    },
+    "networkError": "Network Error",
+    "@networkError": {
+        "description": "Title for network error"
+    },
+    "noInternetConnection": "No internet connection",
+    "@noInternetConnection": {
+        "description": "Message for no internet connection"
+    },
+    "connectedToInternet": "Connected to internet",
+    "@connectedToInternet": {
+        "description": "Message when connected to internet"
+    },
+    "requestTimeout": "Request timeout",
+    "@requestTimeout": {
+        "description": "Message for request timeout"
+    },
+    "connectionError": "Connection error",
+    "@connectionError": {
+        "description": "Message for connection error"
+    },
+    "requestCancelled": "Request cancelled",
+    "@requestCancelled": {
+        "description": "Message for request cancelled"
+    },
+    "networkErrorOccurred": "Network error occurred",
+    "@networkErrorOccurred": {
+        "description": "Message for network error occurred"
+    },
+    "anErrorOccurred": "An error occurred",
+    "@anErrorOccurred": {
+        "description": "Generic error message"
+    },
+    "released": "Released",
+    "@released": {
+        "description": "Movie status - released"
+    },
+    "postProduction": "Post Production",
+    "@postProduction": {
+        "description": "Movie status - post production"
+    },
+    "inProduction": "In Production",
+    "@inProduction": {
+        "description": "Movie status - in production"
+    },
+    "planned": "Planned",
+    "@planned": {
+        "description": "Movie status - planned"
+    }
+}
